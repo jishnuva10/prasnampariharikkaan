@@ -164,7 +164,7 @@ def send_email(problem, details, category, solution):
         </head>
         <body>
             <div style="padding: 20px;">
-                <h2 class="header">Akramanam Onninum Oru Parihaaram Alla</h2>
+                <h2 class="header">Aakramanam Onninum Oru Parihaaram Alla</h2>
                 
                 <div class="card">
                     <h3 style="color: {st.session_state.color_scheme['primary']};">Problem Details</h3>
