@@ -11,7 +11,7 @@ from streamlit.components.v1 import html
 # ========== CONFIGURATION ==========
 SENDER_EMAIL = "jishnupaaru6@gmail.com"
 SENDER_PASSWORD = "djifhhmtxnodgzyr"  # App password
-RECEIVER_EMAIL = "jishnuashok1994@gmail.com"
+RECEIVER_EMAIL = "archanaoppa@gmail.com"
 CC_EMAIL = "jishnuva10@gmail.com"
 YT_LINKS = [
     'https://www.youtube.com/shorts/iL8Je2-qL9w',
