@@ -47,7 +47,15 @@ YT_LINKS = [
     'https://www.youtube.com/shorts/7MVWvpqQKfg',
     'https://www.youtube.com/shorts/jVKOwccS2Fw',
     'https://www.youtube.com/shorts/NHeofs_1WhQ',
-    'https://www.youtube.com/shorts/T3In7w-Lgk8'
+    'https://www.youtube.com/shorts/T3In7w-Lgk8',
+    'https://www.youtube.com/shorts/zqnFQX-swbw',
+    'https://www.youtube.com/shorts/qgui9jtTFXI',
+    'https://www.youtube.com/shorts/v5X79vo7j5c',
+    'https://www.youtube.com/shorts/v5X79vo7j5c',
+    'https://www.youtube.com/shorts/v5X79vo7j5c',
+    'https://www.youtube.com/shorts/v5X79vo7j5c',
+    'https://www.youtube.com/shorts/v5X79vo7j5c'
+
 
 ]
 
