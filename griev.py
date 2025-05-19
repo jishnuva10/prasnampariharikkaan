@@ -35,7 +35,6 @@ YT_LINKS = [
     'https://www.youtube.com/shorts/zAVueV-lWtk',
     'https://www.youtube.com/shorts/AK-ck_IBmng',
     'https://www.youtube.com/shorts/_ixCi7ffh4E',
-    'https://www.youtube.com/shorts/UP56UMWF3VM'
 
 ]
 
